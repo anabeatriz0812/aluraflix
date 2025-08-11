@@ -35,9 +35,15 @@ p{
 gap: 10px;
 }
 
-categoria{
+.categoria{
   padding: left 20px;
-  
-  
-  
-  
+  padding: right 20px; 
+  margin-top: 50px;
+}  
+ .categoria-videos img:hover{
+    opacity: 1.0; 
+    border: 3px solid rgb(29, 11, 130)
+ }
+.categoria h2{
+   color:rgb(19, 90, 182)
+}
